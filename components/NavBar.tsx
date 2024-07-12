@@ -16,13 +16,13 @@ const NavBar = () => {
         <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
             <div className="flex lg:flex-1">
                 <Link href="/" className="-m-1.5 p-1.5">
-                    <span className="sr-only">Your Company</span>
+                    <span className="sr-only">Dokaza Web. Agency</span>
                     <Image
-                        width={20}
-                        height={20}
+                        width={52}
+                        height={52}
                         alt=""
-                        src="next.svg"
-                        className="h-8 w-auto"
+                        src="/3OTQHU-LogoMakr-enhanced-removebg-preview.png"
+                        className="h-16 w-auto"
                     />
                 </Link>
             </div>
@@ -63,11 +63,11 @@ const NavBar = () => {
                     <Link href="/" className="-m-1.5 p-1.5">
                         <span className="sr-only">Dokaza Web. Agency</span>
                         <Image
-                            width={20}
-                            height={20}
+                            width={40}
+                            height={40}
                             alt=""
-                            src="next.svg"
-                            className="h-8 w-auto"
+                            src="/3OTQHU-LogoMakr-enhanced-removebg-preview.png"
+                            className="h-16 w-auto"
                         />
                     </Link>
                     <button

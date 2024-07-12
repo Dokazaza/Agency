@@ -118,11 +118,11 @@ export const Header = () => {
                         <Link href="/" className="-m-1.5 p-1.5">
                             <span className="sr-only">Dokaza Web. Agency</span>
                             <Image
-                                width={20}
-                                height={20}
+                                width={52}
+                                height={52}
                                 alt=""
-                                src="/next.svg"
-                                className="h-8 w-auto"
+                                src="/3OTQHU-LogoMakr-enhanced-removebg-preview.png"
+                                className="h-16 w-auto"
                             />
                         </Link>
                     </div>
@@ -162,11 +162,11 @@ export const Header = () => {
                             <Link href="/" className="-m-1.5 p-1.5">
                                 <span className="sr-only">Dokaza Web. Agency</span>
                                 <Image
-                                    width={20}
-                                    height={20}
+                                    width={40}
+                                    height={40}
                                     alt=""
-                                    src="/next.svg"
-                                    className="h-8 w-auto"
+                                    src="/3OTQHU-LogoMakr-enhanced-removebg-preview.png"
+                                    className="h-16 w-auto"
                                 />
                             </Link>
                             <button
