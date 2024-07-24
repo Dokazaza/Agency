@@ -41,15 +41,16 @@ export const products = [
         title: "Custom Home Design Gallery",
         link: "/product-2",
         thumbnail: "/pikaso_texttoimage_35mm-film-photography-Laptopbased-website-for-a-ho (4).jpeg",
-    },{
-        title: "Home Improvement Specialists",
-        link: "/product-2",
-        thumbnail: "/pikaso_texttoimage_35mm-film-photography-Streamlined-and-uncluttered-.jpeg",
     },
     {
         title: "Real Estate Property Slider",
         link: "/product-2",
         thumbnail: "/pikaso_texttoimage_website-design-for-home-service-business (1).jpeg",
+    },
+    {
+        title: "Home Improvement Specialists",
+        link: "/product-2",
+        thumbnail: "/pikaso_texttoimage_35mm-film-photography-Streamlined-and-uncluttered-.jpeg",
     },
     {
         title: "Reliable Engineer Experts",
