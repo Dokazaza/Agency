@@ -37,9 +37,9 @@ const Accordion = ({ title, content }: FAQProps) => {
 
 const FQA = () => {
     return (
-        <section className="max-w-xl mx-auto p-4 bg-white pb-52">
+        <section className="max-w-xl mx-auto p-4 bg-white pb-52 pt-10">
             <h2 className="flex justify-center text-2xl text-gray-900 font-bold mb-4">
-                Frequently Asked&nbsp;<Underline>Questions</Underline>
+                Frequently Asked&nbsp; Questions
             </h2>
             <Accordion
                 title="What services does Dokaza Web. Agency offer?"

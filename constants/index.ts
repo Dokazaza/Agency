@@ -1,14 +1,14 @@
 export const navigation = [
     { name: 'Home', href: '/' },
     { name: 'Services', href: 'services' },
-    { name: 'Portfolio', href: 'portfolio' },
+    { name: 'Our Work', href: 'portfolio' },
     { name: 'Contact Us', href: 'contact-us' },
 ]
 
 export const navItems = [
     { name: "Home", link: "/" },
     { name: "Services", link: "services" },
-    { name: "Portfolio", link: "portfolio" },
+    { name: "Our Work", link: "portfolio" },
     { name: "Contact Us", link: "contact-us" },
 ];
 
@@ -234,8 +234,8 @@ export const cards = [
     },
     {
         id: 6,
-        name: "John Doe",
-        content: "David revamped our site, and the difference is night and day. Traffic is up, conversions are up, and our customers are happier. We couldn't be more pleased with his work. David, you’re a game-changer!",
+        name: "Bob Smith",
+        content: "David turned our boring website into a masterpiece! Sales went through the roof. Highly recommend!",
     },
     {
         id: 7,
@@ -244,18 +244,8 @@ export const cards = [
     },
     {
         id: 8,
-        name: "Liam Walker",
-        content: "David took our old, boring website and turned it into something truly special. Since the redesign, our bookings have never been higher. Clients keep telling us how much they love the new look. Thanks a million, David! You’ve made a huge difference for us!",
-    },
-    {
-        id: 9,
-        name: "Olivia King",
-        content: "Since David took over our website redesign, our sales and client engagement have skyrocketed. He really knows how to create a site that stands out. We’re thrilled with the results and can’t thank him enough!",
-    },
-    {
-        id: 10,
-        name: "Noah Carter",
-        content: "David’s redesign of our website has taken our online presence to new heights. We’re seeing record traffic and customer interest, and it's all thanks to his fantastic work. David, you’ve done an amazing job!",
+        name: "Evan Thompson",
+        content: "David's redesign gave our business a huge boost! We're seeing way more traffic and engagement. He's the real deal!",
     },
 ];
 

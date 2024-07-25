@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 import NavBar from "@/components/NavBar";
 import {FloatingNav} from "@/components/FloatingNavBar";
 import {navItems} from "@/constants";
+import FloatingCalendly from "@/components/FloatingCalendly";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -27,6 +28,7 @@ export default function RootLayout({
       </header>
       <main className="bg-white">
         {children}
+          <FloatingCalendly />
       </main>
       <footer className="bg-white">
         <Footer />

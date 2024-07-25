@@ -41,7 +41,7 @@ export default function Footer() {
                                         <FaInstagram />
                                     </Link>
 
-                                    <Link href="#"
+                                    <Link href="https://www.facebook.com/profile.php?id=61557364734948"
                                        className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
                                        aria-label="Facebook">
                                         <FaFacebook />
@@ -59,7 +59,7 @@ export default function Footer() {
                                     <Link href="services"
                                           className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Services</Link>
                                     <Link href="portfolio"
-                                          className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Portfolio</Link>
+                                          className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Our Work</Link>
                                     <Link href="contact-us"
                                           className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Contact
                                         Us</Link>

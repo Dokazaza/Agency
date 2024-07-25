@@ -6,6 +6,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import {navigation, products} from "@/constants";
 import {FlipWords} from "@/components/ui/FlipWords";
 import {HeroParallax, ProductCard} from "@/components/ui/HeroParallax";
+import Link from "next/link";
 
 export default function Example() {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -87,12 +88,12 @@ export default function Example() {
                                     ))}
                                 </div>
                                 <div className="py-6">
-                                    <a
+                                    <Link
                                         href="#"
                                         className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                                     >
                                         Book Call <span aria-hidden="true">📅</span>
-                                    </a>
+                                    </Link>
 
                                 </div>
                             </div>
