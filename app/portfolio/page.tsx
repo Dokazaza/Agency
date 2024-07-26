@@ -12,8 +12,8 @@ function Service() {
                 <NavBar />
             </header>
             <main>
-                <Portfolio1/>
                 <Portfolio2 />
+                <Portfolio1/>
             </main>
         </>
     );
