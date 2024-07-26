@@ -26,7 +26,7 @@ export default function WhatWeDo() {
                         </h2>
                         <p className="mt-6 text-lg leading-8 text-gray-300">
                             {/*Welcome to Your Home Service Web Solution! We specialize in expert web design and development for home-service businesses nationwide. Our handcrafted code ensures optimized speed, top Google rankings, and mobile responsiveness. Let’s attract more customers and boost your revenue together!*/}
-                            As a web developer focused solely on home service websites, I really get what your business needs. I've worked with many home service companies, so I know the ins and outs of the industry. This helps me create awesome websites that not only look great but also help your business grow. Trust me to build a site that's just right for you and helps you stand out!
+                            As a team focused solely on home service websites, I really get what your business needs. I've worked with many home service companies, so I know the ins and outs of the industry. This helps me create awesome websites that not only look great but also help your business grow. Trust me to build a site that's just right for you and helps you stand out!
                         </p>
                         <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
                             <Link

@@ -1,6 +1,6 @@
 import React from 'react';
 import {CardStack} from "@/components/ui/CardStack";
-import {cards, cardsData} from '@/constants';
+import {cards} from '@/constants';
 import Image from "next/image";
 import {FaAnglesUp, FaClock} from "react-icons/fa6";
 import {TiTick} from "react-icons/ti";
@@ -46,7 +46,7 @@ const BluePrint = () => {
                                 <p className="text-base font-semibold leading-7 text-indigo-600">Why choose US?</p>
                                 <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</h1>
                                 <p className="mt-6 text-xl leading-8 text-gray-700">
-                                    At Dokaza Web Agency, we know home service businesses inside and out. With our
+                                    At Dowad Web. Agency, we know home service businesses inside and out. With our
                                     in-depth industry knowledge and technical expertise, we create websites that not
                                     only look amazing but also drive real results. We’re passionate about helping your
                                     business succeed online, and we’re committed to delivering top-notch, customized web

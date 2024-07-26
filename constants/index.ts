@@ -65,32 +65,6 @@ export const products = [
     // Add more products as needed
 ];
 
-export const cardsData = [
-    {
-        id: 1,
-        name: 'John Doe',
-        designation: 'CEO',
-        content:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit Nullam vehicula neque vitae augue lobortis, ac hendrerit nisi lacinia."
-},
-    {
-        id: 2,
-        name: 'John Doe',
-        designation: 'CEO',
-        content:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit Nullam vehicula neque vitae augue lobortis, ac hendrerit nisi lacinia."
-    },
-    {
-        id: 3,
-        name: 'John Doe',
-        designation: 'CEO',
-        content:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit Nullam vehicula neque vitae augue lobortis, ac hendrerit nisi lacinia."
-    },
-// Add more cards as needed
-];
-
-
 export const services = [
     {
         id: 1,

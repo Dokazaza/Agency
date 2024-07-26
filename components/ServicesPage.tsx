@@ -18,7 +18,7 @@ const Heading = () => {
                             Comprehensive Web Design for <FlipWords words={["Roofing", "Cleaning", "Fencing", "Landscaping", "Plumbing", "Gutter Cleaning","Furniture Assembly","HVAC", "Pressure Washing", "Carpet Cleaning","Drywall Repair","Handyman","Pool Maintenance","Window Wash","Chimney Sweep",]} /> & More
                         </h1>
                         <p className="mt-8 text-xl text-gray-500">
-                            Need a website that works as hard as you? At Dokaza Web Agency, we craft custom designs that make your home service business shine online. From electricians to gardeners, we turn visitors into clients. Let's build a site that showcases your work and grows your business.
+                            Need a website that works as hard as you? At Dowad Web. Agency, we craft custom designs that make your home service business shine online. From electricians to gardeners, we turn visitors into clients. Let's build a site that showcases your work and grows your business.
                         </p>
                     </div>
                     <div>
